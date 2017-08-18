@@ -1,0 +1,9 @@
+{
+  "name": "util",
+  "repo": "rinterest-team/util",
+  "description": "Common JavaScript utilities",
+  "version": "0.1.0",
+  "keywords": ["util", "lang"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
