@@ -5,6 +5,6 @@
   "version": "0.1.0",
   "keywords": ["util", "lang"],
   "scripts": ["index.js"],
-  "files": ["lib", "lib/util"],
+  "files": ["lib/util"],
   "license": "MIT"
 }
